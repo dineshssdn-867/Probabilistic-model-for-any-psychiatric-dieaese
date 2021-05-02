@@ -1,2 +1,2 @@
 # Probabilistic-model-for-any-psychiatric-disease
-This model can be used to find how many genes are involved in a psychiatric disease. To verify the model we have taken the example of schizophreneia.
+This model can be used to find how many genes are involved in a psychiatric disease. To verify the model we have taken the example of schizophreneia and applied the binomial distribution and also find some interesting results.We also found some interesting results on inbreeding in different generations.Also, this model has been made upon some assumptions that are made in base article.
